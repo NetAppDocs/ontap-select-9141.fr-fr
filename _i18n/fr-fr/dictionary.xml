@@ -3258,7 +3258,6 @@ Si vous cliquez sur _Model_, une liste complète des paramètres JSON s'affiche,
   <block id="58c277c116ff23ffb9879debb95b4968" category="list-text">Prise en charge de NVMe over TCP</block>
   <block id="db5f5d6e1e5a3e29724ce78258556ff1" category="list-text">Lorsque vous effectuez une mise à niveau vers ONTAP Select 9.13.1, vous devez disposer de la nouvelle licence pour prendre en charge NVMe over TCP. Cette licence est automatiquement incluse lorsque vous déployez ONTAP Select pour la première fois à partir de la version 9.13.1.</block>
   <block id="5f4c6121d4f63aaa5d6daebc2a2effee" category="list-text">Prise en charge de VMware ESXi mise à jour</block>
-  <block id="4d8daf3f51ebf7fefb4dfcf900e9b79d" category="list-text">À partir de ONTAP 9.13.1, VMware ESXi 8.0 GA (build 20513097) est pris en charge avec la version matérielle 4 et les versions ultérieures.</block>
   <block id="2183c79114d56889f4a8854299f703a5" category="list-text">Depuis avril 2024, ONTAP Select Deploy 9.13.1 n'est plus disponible sur le site de support NetApp. Si vous exécutez ONTAP Select Deploy 9.13.1, vous devez effectuer une mise à niveau vers ONTAP Select Deploy 9.14.1P2 dès que possible. Pour plus d'informations, reportez-vous à la section <block ref="6635db952aa4480bb5bc591b4d6d32f6" category="inline-link-macro-rx"></block>.</block>
   <block id="77e5d3b8719596b41c77222a6711e69b" category="section-title">ONTAP Select 9.12.1</block>
   <block id="05dd50ebf48db80deadf4c9a847c2ce4" category="paragraph">ONTAP Select 9.12.1 bénéficie de la plupart des nouveautés de la version actuelle du produit principal ONTAP. Elle n'inclut aucune nouvelle fonctionnalité ni amélioration spécifique à ONTAP Select.</block>
@@ -3773,4 +3772,6 @@ l'agrégat de stockage affiche les disques-spare</block>
   <block id="0a15f7ba73868a32304fdf52855463c9" category="sidebar">Supprimer les images ONTAP Select</block>
   <block id="afc9d68a1be701598b5ef94dc0be2844" category="sidebar">Restaurez le déploiement pour un cluster à deux nœuds</block>
   <block id="f99bb666310fb365b4d0029c161a384b" category="admonition">ONTAP Select 9.12.1 et versions ultérieures prennent désormais en charge SVM DR comme source et destination avec un maximum de 16 relations. La prise en charge du SVM DR est limitée à l'utilisation de la version ONTAP source aux versions +2. Par exemple, la source ONTAP Select 9.12.1 peut se connecter à ONTAP de destination versions 9.12.1, 9.13.1 ou 9.14.1.</block>
+  <block id="78fb396e8c541b492002e6b94963fe83" category="list-text">ONTAP Select 9.14.1 inclut la prise en charge de VMware ESXi 8.0.2.</block>
+  <block id="2908aba1afb68c480565ae68ebe3508c" category="list-text">À partir de ONTAP 9.13.1, VMware ESXi 8.0.1 GA (build 20513097) est pris en charge par la version matérielle 4 et ultérieure.</block>
 </blocks>
