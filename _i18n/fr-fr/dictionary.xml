@@ -3679,7 +3679,6 @@ l'agrégat de stockage affiche les disques-spare</block>
   <block id="bf228c91d777320bb66324531a85cdb5" category="list-text">URL du proxy (facultatif)</block>
   <block id="a070d5cad46a2ff939c511d82e8fa8a6" category="list-text">Tapez *?* et appuyez sur *entrée* pour afficher la liste des commandes de shell de gestion disponibles.</block>
   <block id="f8304478cfdeb2db287b6dcf0b36f3a8" category="sidebar">NetApp ONTAP Select est un dispositif de stockage Software-defined que vous pouvez déployer sur divers serveurs matériels génériques exécutant l'hyperviseur VMware ESXi ou KVM (Kernel-based Virtual machine). Elle vous apporte l'agilité dont vous avez besoin pour concevoir une infrastructure de cloud privé flexible et évolutive. Ce site contient la documentation de ONTAP Select 9.14.1.</block>
-  <block id="7436b418bed093768e360d32105591d2" category="sidebar">Documentation ONTAP Select</block>
   <block id="be11c74c1dd7f307bb80183a90dc2067" category="sidebar">Commencez</block>
   <block id="7d0ee6fed10d3d4e5c9ee496729ab519" category="sidebar">Notes de mise à jour</block>
   <block id="33871b6190a8d5adbe8b15282054766c" category="sidebar">Quoi de neuf</block>
@@ -3774,4 +3773,5 @@ l'agrégat de stockage affiche les disques-spare</block>
   <block id="f99bb666310fb365b4d0029c161a384b" category="admonition">ONTAP Select 9.12.1 et versions ultérieures prennent désormais en charge SVM DR comme source et destination avec un maximum de 16 relations. La prise en charge du SVM DR est limitée à l'utilisation de la version ONTAP source aux versions +2. Par exemple, la source ONTAP Select 9.12.1 peut se connecter à ONTAP de destination versions 9.12.1, 9.13.1 ou 9.14.1.</block>
   <block id="78fb396e8c541b492002e6b94963fe83" category="list-text">ONTAP Select 9.14.1 inclut la prise en charge de VMware ESXi 8.0.2.</block>
   <block id="2908aba1afb68c480565ae68ebe3508c" category="list-text">À partir de ONTAP 9.13.1, VMware ESXi 8.0.1 GA (build 20513097) est pris en charge par la version matérielle 4 et ultérieure.</block>
+  <block id="7f354690d454e4370ee79703e014fbd0" category="sidebar">Documentation ONTAP Select 9.14.1</block>
 </blocks>
