@@ -21,7 +21,7 @@ settings:
     url: "/ontap-select-9121"
   - version-number: 9.11.1
     url: "/ontap-select-9111"
-  langs: fr-fr,us-en,ja-jp,ko-kr,zh-cn,zh-tw,de-de,es-es,it-it
+  langs: fr-fr,us-en,de-de,es-es,it-it,pt-br,ja-jp,ko-kr,zh-cn,zh-tw
 sidebar:
   entries:
   - title: Documents relatifs à ONTAP Select 9.14.1
@@ -260,8 +260,6 @@ sidebar:
         url: "/reference_api_script_common.html"
       - title: Redimensionner les nœuds du cluster
         url: "/reference_api_script_resize.html"
-  - title: Automatisez avec Ansible
-    url: "/concept_automate_ansible.html"
   - title: Utiliser l'interface de ligne de commande
     entries:
     - title: Connectez-vous à l'aide de SSH
