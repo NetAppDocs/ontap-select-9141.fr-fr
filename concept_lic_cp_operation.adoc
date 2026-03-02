@@ -53,8 +53,7 @@ Vous pouvez déterminer l'ID de verrouillage de licence de votre instance de dé
 
 * Page de démarrage
 Cette page s'affiche lorsque vous vous connectez pour la première fois au déploiement. Vous pouvez également afficher la page en cliquant sur la liste déroulante en haut à droite de la page et en sélectionnant mise en route. Le LLID s'affiche dans la section Ajouter des licences.
-* L'administration
-Cliquez sur l'onglet *Administration* a en haut de la page, puis cliquez sur *systèmes* et *Paramètres*.
+* Administration Cliquez sur l'onglet *Administration* en haut de la page, puis cliquez sur *Systems & AutoSupport*.
 
 
 
